@@ -2,7 +2,6 @@
 App được mô phỏng theo google map giúp người dùng có thể tìm được đoạn đường mà mình cần tìm
 # Chức năng chính
 Định vị vị trí người dùng, 
-\n
 Tìm kiếm con đường mà người dùng cần tìm.
 # Công nghệ sử dụng
 Dart, Flutter.
